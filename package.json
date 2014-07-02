@@ -1,0 +1,20 @@
+{
+  "name": "baconframe.com",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/josephabrahams/baconframe.git#baconframe.com"
+  },
+  "devDependencies": {
+    "gulp": "^3.6.2",
+    "gulp-autoprefixer": "0.0.7",
+    "gulp-compass": "^1.1.9",
+    "gulp-compile-handlebars": "~0.2.0",
+    "gulp-modernizr": "https://github.com/doctyper/gulp-modernizr/tarball/develop",
+    "gulp-rename": "^1.2.0",
+    "gulp-rev": "~0.3.2",
+    "gulp-task-listing": "^0.3.0",
+    "gulp-uglify": "^0.3.0",
+    "strip-json-comments": "^0.1.2"
+  }
+}

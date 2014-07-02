@@ -1,0 +1,22 @@
+/**
+ * customizr config file
+ * see https://github.com/doctyper/customizr#config-file for more info
+ */
+
+{
+    // Based on default settings on http://modernizr.com/download/
+    // See options at https://github.com/Modernizr/Modernizr/tree/master/src
+    "options" : [
+        "html5shiv",
+        "setClasses"    // remove no-js
+    ],
+
+    // Define any tests you want to explicitly include
+    // See options at https://github.com/Modernizr/Modernizr/tree/master/feature-detects
+    "tests" : [],
+
+    // Useful for excluding any tests that this tool will match
+    // e.g. you use .notification class for notification elements,
+    // but don’t want the test for Notification API
+    "excludeTests": []
+}
